@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Chese/bing.png</file>
+        <file>Chese/che_black.png</file>
+        <file>Chese/Che_red.png</file>
+        <file>Chese/checkerboard.png</file>
+        <file>Chese/jiang.png</file>
+        <file>Chese/ma_black.png</file>
+        <file>Chese/ma_red.png</file>
+        <file>Chese/pao_black.png</file>
+        <file>Chese/pao_red.png</file>
+        <file>Chese/shi_black.png</file>
+        <file>Chese/shi_red.png</file>
+        <file>Chese/shuai.png</file>
+        <file>Chese/xiang_black.png</file>
+        <file>Chese/xiang_red.png</file>
+        <file>Chese/zu.png</file>
+    </qresource>
+</RCC>
